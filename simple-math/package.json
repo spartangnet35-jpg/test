@@ -1,0 +1,17 @@
+{
+  "name": "simple-math-check",
+  "version": "1.0.0",
+  "description": "Tiny npm module for testing safe install flows by exposing basic math helpers.",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": [
+    "math",
+    "test",
+    "safe"
+  ],
+  "author": "AI-Sentinel QA",
+  "license": "MIT"
+}
